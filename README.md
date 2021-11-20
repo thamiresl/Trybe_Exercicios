@@ -1,1 +1,1 @@
- Exercício realizados durante o curso de desenvolvimento web | Trybe
+Exercícios realizados durante o curso de desenvolvimento | Trybe 
